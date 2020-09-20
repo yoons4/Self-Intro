@@ -9,8 +9,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="179434dd-72ea-404a-9e2b-b37e4e30ed59" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/add.js" beforeDir="false" />
+    <list default="true" id="d053b554-ff8d-48cd-8c0d-3c42ad0ac468" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Self-Intro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +36,7 @@
   <component name="MacroExpansionManager">
     <option name="directoryName" value="5a4jr1jl" />
   </component>
-  <component name="ProjectId" id="1hmvBodwxB5Qgzlg1NipmLxWrpr" />
+  <component name="ProjectId" id="1hn2oZNCPGwhxax03odKJtPuJNs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,19 +46,28 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.62" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="179434dd-72ea-404a-9e2b-b37e4e30ed59" name="Default Changelist" comment="" />
-      <created>1600628949119</created>
+      <changelist id="d053b554-ff8d-48cd-8c0d-3c42ad0ac468" name="Default Changelist" comment="" />
+      <created>1600632710664</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1600628949119</updated>
-      <workItem from="1600628950339" duration="7000" />
-      <workItem from="1600629181389" duration="13000" />
+      <updated>1600632710664</updated>
+      <workItem from="1600632711764" duration="310000" />
     </task>
     <servers />
   </component>
